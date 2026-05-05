@@ -1,5 +1,9 @@
 [English](README.md) | [中文](README.zh.md)
 
+<div align="center">
+  <img src="assets/samples/hero.png" alt="FluxPicture — AI-driven diagram refinement" width="800">
+</div>
+
 # FluxPicture
 
 > **AI-driven iterative diagram refinement.** Generate technical diagrams, annotate issues visually, and let a multimodal vision model refine them — in a closed loop until you're satisfied.

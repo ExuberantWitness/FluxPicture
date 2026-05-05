@@ -1,5 +1,9 @@
 [English](README.md) | [中文](README.zh.md)
 
+<div align="center">
+  <img src="assets/samples/hero.png" alt="FluxPicture — AI 驱动的图表迭代修正" width="800">
+</div>
+
 # FluxPicture
 
 > **AI 驱动的图表迭代修正工具。** 生成技术图表、可视化标注问题、让多模态视觉模型智能修正 —— 闭环迭代直到满意。
