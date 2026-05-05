@@ -72,6 +72,12 @@ A single-page annotation tool served at `localhost:8765`:
 - **Comment** — Numbered pins with editable text in a side panel
 - **Eraser** — Remove annotations
 
+![Annotator — clean UI with toolbar and canvas](assets/samples/annotator-ui.png)
+*Annotator UI: toolbar with drawing tools, canvas displaying the generated diagram*
+
+![Annotator — comments added with numbered pins](assets/samples/annotator-with-comments.png)
+*Comment pins on canvas + editable text in the right panel. Both visual (on canvas) and structured (JSON) feedback for the vision model.*
+
 Comments are saved as structured JSON alongside the annotated image, providing both visual context (on the canvas) and precise text (in the JSON) for the vision model.
 
 ### Vision Client (`core/vision_client.py`)

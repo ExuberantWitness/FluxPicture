@@ -74,6 +74,12 @@ Claude Code
 
 评论以结构化 JSON 保存（与标注图片并列），为视觉模型同时提供视觉上下文（画布上的图钉和文字）和精确文本（JSON 中的评论内容）。
 
+![标注器 — 工具栏与画布](assets/samples/annotator-ui.png)
+*标注器界面：顶部工具栏包含画笔/箭头/矩形/评论/橡皮，画布展示生成的图表*
+
+![标注器 — 评论图钉与右侧面板](assets/samples/annotator-with-comments.png)
+*画布上的编号图钉 + 右侧面板可编辑文字。视觉（画布）和结构化（JSON）双通道反馈，供视觉模型精确修正。*
+
 ### 视觉修正客户端 (`core/vision_client.py`)
 
 将标注图片 + 修正提示发送至 GLM-5V 多模态 API，使用智谱 AI 的 `glm-4v-plus` 模型。
