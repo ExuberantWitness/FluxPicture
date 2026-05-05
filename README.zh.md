@@ -1,7 +1,7 @@
 [English](README.md) | [中文](README.zh.md)
 
 <div align="center">
-  <img src="assets/samples/hero.png" alt="FluxPicture — AI 驱动的图表迭代修正" width="800">
+  <img src="https://github.com/ExuberantWitness/FluxPicture/blob/main/ChatGPT%20Image%202026%E5%B9%B45%E6%9C%885%E6%97%A5%2012_01_05.png?raw=true" alt="FluxPicture — AI 驱动的图表迭代修正" width="800">
 </div>
 
 # FluxPicture
